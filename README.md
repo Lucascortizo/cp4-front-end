@@ -11,3 +11,5 @@ A página foi criada como uma landing page simples, com a intenção de apresent
 🛠 Tecnologias Utilizadas
 HTML5: Para estruturar a página.
 Bootstrap: Para garantir a responsividade e melhorar a estética da página (não foi utilizado CSS personalizado).
+
+Link da página no GitHub Pages: https://lucascortizo.github.io/cp4-front-end/
